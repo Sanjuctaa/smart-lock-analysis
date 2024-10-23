@@ -50,7 +50,7 @@ FROM brand_review_count
 WHERE total_reviews > 1000;
 
 
-8. write a query to find the count of products in particular price distribution :
+7. write a query to find the count of products in particular price distribution :
 -- <INR 4999  
 -- INR 3000-4999  
 -- INR 5000-9999  
